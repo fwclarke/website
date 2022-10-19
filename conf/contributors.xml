@@ -890,7 +890,8 @@ Please keep the list in alphabetical order by last name!
  location="Swansea, UK"
  description="bug fixes"
  url="http://www-maths.swan.ac.uk/staff/fwc/"
- trac="fwclarke"/>
+ trac="fwclarke"
+ github="fwclarke"/>
 <contributor
  name="Keith Clawson"
  location="Washington State University, Pullman, WA"
